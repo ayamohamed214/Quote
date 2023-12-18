@@ -1,0 +1,42 @@
+
+body{
+    background-image:url('/img/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3BmLXM1LWppci04Nzg0LWNoaW0tMDFhXzIuanBn.webp') ;
+}
+
+.text h1{
+    font-size: 70px;
+    font-family: 'Lora', serif;
+    color: #6A6461;
+    /* font-weight: 900; */
+}
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    height: 100vh;
+    background-image:url('../img/1.webp') ;
+    background-size: 100% 100%;
+
+    text-align: center;
+}
+/* .cartona{
+ background-image:url('../img/1.webp') ;
+
+
+} */
+.text button{
+    outline-style: double;
+   
+
+    background-color: #eaceb6;
+    color: rgb(115, 83, 22);
+    font-size: larger;
+    font-weight: 400;
+    
+    
+}
+.text p{
+    font-size: larger;
+    font-weight: 400;
+} 
